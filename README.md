@@ -7,7 +7,7 @@
 
     **2.** Conduct a comprehensive comparison between _[market performance and sales targets](https://github.com/pawanyog/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardware-/blob/main/Market%20Performance%20VS%20Target%20Report.pdf)_
   
-    **3.** Understanding other sales parameters using [Various Aspects Report](https://github.com/pawanyog/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardware-/blob/main/Various%20Aspects%20Report.pdf)
+    **3.** Understanding [Various parameters of sales](https://github.com/pawanyog/Excel-Sales-and-Finance-Analytics-Project-of-AtliQ-Hardware-/blob/main/Various%20Parameters%20of%20Sales.pdf)
 
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
 
